@@ -1,0 +1,22 @@
+body {
+    background-color :rgb(0, 0, 0);
+}
+
+body {
+    display:flex;
+    justify-content: center;
+}
+body {
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pictures {
+    height: 150px;
+    display:flex;
+    
+}
+
+body {
+    color:rgb(255, 0, 0);
+}
