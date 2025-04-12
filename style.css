@@ -11,12 +11,16 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.pictures {
-    height: 150px;
-    display:flex;
-    
-}
 
 body {
     color:rgb(255, 0, 0);
+}
+.photos {
+    height: 150px;
+    padding-left: 100px;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
 }
